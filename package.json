@@ -4,7 +4,7 @@
   "description": "// *Activity Instructions* //  You will create an Express calculator application with one `GET` route able to take in three parameters:  //an operation and two numbers.",
   "main": "calculator.js",
   "scripts": {
-    "test": "jest",
+    "test": "jshint hello.js",
     "start": "nodemon calculator.js"
   },
   "repository": {
@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "cucumber": "^5.1.0"
+    "cucumber": "^5.1.0",
+    "jshint": "^2.10.2"
   }
 }
