@@ -11,7 +11,7 @@ app.get('/:operator/:num1/:num2', function(req, res) {
 });
 
 app.get("/", function(req, res){
-	res.send("hello! please type some math y'all")
+	res.send("hello! please type some math y'all");
 });
 
 //listener
