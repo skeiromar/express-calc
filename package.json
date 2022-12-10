@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/hberry79/Express-Calculator#readme",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "jest": "^24.8.0",
     "nodemon": "^1.19.1"
   },
